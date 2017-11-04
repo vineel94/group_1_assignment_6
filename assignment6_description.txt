@@ -1,0 +1,12 @@
+A 2D Animation scene
+
+This project is a simulation of fireworks that implements gravity and wind. It uses three separate classes: a fireworks class, a smoke class and a particle/particle explosion class. 
+
+The fireworks are thrust into the air , slowly brought down by gravity,followed by smoke, and upon detonation, explode into particles that disseminate into the air.
+
+Mason- Fireworks class and main program
+
+Andrew - Smoke class and main program
+
+Vineel - Particle/particle explosion classes.
+
